@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" ttp:cellResolution="40 23" ttp:frameRate="25" ttp:timeBase="smpte" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+    <head>
+        <metadata>
+            <ttm:title>
+                Horizon - Mosquito
+            </ttm:title>
+            <ttm:copyright>
+                British Broadcasting Corporation 2006
+            </ttm:copyright>
+        </metadata>
+        <styling>
+            <style xml:id="s2" style="s0" tts:color="lime" />
+            <style xml:id="s1" style="s0" tts:color="yellow" />
+            <style xml:id="s3" style="s0" tts:color="cyan" />
+            <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="1c 2c" tts:fontFamily="monospaceSansSerif" tts:color="white" />
+        </styling>
+        <layout>
+            <region xml:id="r0" tts:origin="0c 17c" tts:extent="40c 6c" tts:zIndex="0" tts:textAlign="center" tts:displayAlign="after" />
+            <region xml:id="r1" tts:origin="0c 19c" tts:extent="40c 4c" tts:zIndex="1" tts:textAlign="center" tts:displayAlign="after" />
+            <region xml:id="r2" tts:origin="0c 15c" tts:extent="40c 4c" tts:zIndex="1" tts:textAlign="center" tts:displayAlign="after" />
+            <region xml:id="r3" tts:origin="0c 13c" tts:extent="40c 4c" tts:zIndex="1" tts:textAlign="center" tts:displayAlign="after" />
+            <region xml:id="r4" tts:origin="0c 21c" tts:extent="40c 2c" tts:zIndex="1" tts:textAlign="center" tts:displayAlign="after" />
+        </layout>
+    </head>
+    <body tts:extent="720 576" region="r0" style="s0">
+        <div>
+            <p style="s1" region="r1" begin="01:10:01:06" xml:id="p0" end="01:10:06:08">
+                 The Chinese had discovered what <br />
+                 scientists had been hoping for - 
+            </p>
+            <p style="s1" begin="01:10:06:09" xml:id="p1" end="01:10:13:10">
+                 a brand-new, powerful drug against <br />
+                 malaria. They continued to test it, <br />
+                 refine it, perfect it. 
+            </p>
+            <p style="s1" region="r1" begin="01:10:13:11" xml:id="p2" end="01:10:18:19">
+                 But it was years before they would <br />
+                 tell anyone else it even existed. 
+            </p>
+            <p style="s2" region="r2" begin="01:10:18:20" xml:id="p3" end="01:10:24:22">
+                 It was only published in English <br />
+                 a decade after the work was done. 
+            </p>
+            <p style="s2" begin="01:10:24:23" xml:id="p4" end="01:10:32:10">
+                 Work came out in '79 and many <br />
+                 papers came out in '82 - reporting <br />
+                 things done a long time ago. 
+            </p>
+            <p region="r1" begin="01:10:32:11" xml:id="p5" end="01:10:37:04">
+                 I think I was working <br />
+                 in Eastern Thailand at the time. 
+            </p>
+            <p region="r3" begin="01:10:37:05" xml:id="p6" end="01:10:42:03">
+                 We got a copy of an extraordinary <br />
+                 article in a Chinese medical journal.
+            </p>
+            <p region="r1" begin="01:10:42:04" xml:id="p7" end="01:10:48:11">
+                 It described the rediscovery <br />
+                 of a plant-derived medicine. 
+            </p>
+            <p region="r1" begin="01:10:48:12" xml:id="p8" end="01:10:53:24">
+                 It described the evaluation of this <br />
+                 in the laboratory - 
+            </p>
+            <p region="r1" begin="01:10:54:00" xml:id="p9" end="01:10:59:15">
+                 to show that it had anti-malarial <br />
+                 activity - the chemical structure, 
+            </p>
+            <p region="r1" begin="01:10:59:16" xml:id="p10" end="01:11:04:11">
+                 and then clinical trials <br />
+                 with this new compound 
+            </p>
+            <p region="r4" begin="01:11:04:12" xml:id="p11" end="01:11:07:04">
+                 suggesting it was an anti-malarial. 
+            </p>
+            <p region="r4" begin="01:11:07:05" xml:id="p12" end="01:11:10:18">
+                 It just sounded extraordinary. 
+            </p>
+            <p style="s1" region="r1" begin="01:11:10:19" xml:id="p13" end="01:11:16:02">
+                 There was something else <br />
+                 about qing hao su... 
+            </p>
+            <p style="s1" region="r1" begin="01:11:16:03" xml:id="p14" end="01:11:21:10">
+                 its molecule was different <br />
+                 from any other anti-malarial. 
+            </p>
+            <p style="s1" region="r1" begin="01:11:21:11" xml:id="p15" end="01:11:26:11">
+                 It was so new, the malaria parasite <br />
+                 wouldn't be resistant to it. 
+            </p>
+            <p style="s1" region="r1" begin="01:11:26:11" xml:id="p16" end="01:11:30:23">
+                 But it was so new, <br />
+                 they didn't know how it worked... 
+            </p>
+            <p style="s1" region="r1" begin="01:11:32:05" xml:id="p17" end="01:11:37:19">
+                 ..and so strange that scientists <br />
+                 were sceptical that it DID work! 
+            </p>
+            <p style="s3" region="r4" begin="01:11:40:10" xml:id="p18" end="01:11:43:10">
+                 It's a beautiful-looking molecule 
+            </p>
+            <p style="s3" region="r1" begin="01:11:43:11" xml:id="p19" end="01:11:47:20">
+                 and it caught the attention <br />
+                 of many, many people. 
+            </p>
+            <p style="s3" region="r4" begin="01:11:47:21" xml:id="p20" end="01:11:51:08">
+                 It had a strange peroxide group - 
+            </p>
+            <p style="s3" region="r4" begin="01:11:51:09" xml:id="p21" end="01:11:54:10">
+                 two oxygen attached to each other. 
+            </p>
+            <p style="s3" begin="01:11:54:11" xml:id="p22" end="01:12:01:01">
+                 In medicinal chemistry, <br />
+                 we've never seen anything useful <br />
+                 from such a compound. 
+            </p>
+            <p style="s2" region="r1" begin="01:12:04:22" xml:id="p23" end="01:12:09:24">
+                 No-one had ever seen a molecule <br />
+                 like qing hao su before. 
+            </p>
+            <p style="s2" region="r1" begin="01:12:10:00" xml:id="p24" end="01:12:13:14">
+                 It contained an endoperoxide - <br />
+                 two oxygens. 
+            </p>
+            <p style="s2" region="r1" begin="01:12:13:15" xml:id="p25" end="01:12:18:20">
+                 Till then, almost all endoperoxides <br />
+                 that had been found were unstable - 
+            </p>
+            <p style="s2" begin="01:12:18:21" xml:id="p26" end="01:12:26:01">
+                 it's a compound that could fall <br />
+                 apart on exposure to air - and they <br />
+                 were claiming to have a stable drug 
+            </p>
+            <p style="s2" region="r4" begin="01:12:26:02" xml:id="p27" end="01:12:28:20">
+                 that would last in the body. 
+            </p>
+            <p style="s2" begin="01:12:28:21" xml:id="p28" end="01:12:36:09">
+                 The feeling was this compound <br />
+                 couldn't last long enough in <br />
+                 the body to have an active effect. 
+            </p>
+        </div>
+    </body>
+</tt>

@@ -1,0 +1,30 @@
+1
+00:00:00,010 --> 00:00:00,020
+<b><i>This italic and boldmust
+definitely
+be kept</i></b>
+
+2
+00:00:01,010 --> 00:00:01,020
+T<i>hi</i>s formatting
+<u><i>should be removed</i></u>
+
+3
+00:00:03,000 --> 00:00:04,389
+- <b>formatted single dialogue line</b>
+
+4
+00:01:03,000 --> 00:01:04,389
+<i>This</i> <b>formatting</b>
+must also be <i>removed</i>
+
+5
+00:01:05,010 --> 00:01:06,020
+- <u><i>Should this formatting be kept (ui)?</i></u>
+<b>- Yes, definitely (b)!</b>
+
+6
+00:01:07,000 --> 00:01:08,000
+<i>- this should all be italic</i>
+- unlike <i>this line</i>
+

@@ -1,0 +1,24 @@
+0001	00:00:00:06	00:00:00:06
+This italic and boldmust
+definitely
+be kept
+
+0002	00:00:01:06	00:00:01:06
+This formatting
+should be removedä
+
+0003	00:00:03:06	00:00:04:06
+- formatted single dialogue lineõ
+
+0004	00:01:03:06	00:01:04:06
+This formattingддд
+must also be removed
+
+0005	00:01:05:06	00:01:06:06
+- Should this formatting be kept (ui)?
+- Yes -- definitely (b)!
+
+0006	00:01:07:06	00:01:08:06
+- this should all be italic
+- unlike this line
+
